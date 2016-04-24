@@ -7,5 +7,4 @@ set number
 " Blink cursor on error instead of beeping
 set visualbell
 
-set tabstop=4
-set expandtab
+filetype plugin indent on
