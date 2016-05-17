@@ -8,3 +8,4 @@ set number
 set visualbell
 
 filetype plugin indent on
+set spell spelllang=en_us
